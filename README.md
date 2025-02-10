@@ -30,7 +30,7 @@ pip install -r requirements.txt
 در صورت علاقه به ارتباط، می‌توانید از طریق گیت‌هاب یا ایمیل با من در تماس باشید.
 
 ایمیل : neda.jalili.23@gmail.com
-گیت هاب : github.com/NedaJalili
+گیت هاب :  https://github.com/nedajalili
 
 
 ML-Forge
@@ -62,4 +62,5 @@ If you'd like to reach out, you can contact me via GitHub or email.
 
 
 email : neda.jalili.23@gmail.com
-github : github.com/NedaJalili
+
+github :  https://github.com/nedajalili
