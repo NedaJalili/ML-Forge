@@ -1,0 +1,46 @@
+*   [33m3be987a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #11 from NedaJalili/master
+[31m|[m[32m\[m  
+[31m|[m * [33m2022728[m[33m ([m[1;31morigin/master[m[33m)[m Resolved merge conflicts
+[31m|[m[31m/[m  
+*   [33m4c04cb6[m Merge pull request #10 from NedaJalili/master
+[33m|[m[34m\[m  
+[33m|[m * [33m4537777[m Add files via upload
+* [34m|[m [33mc220697[m Merge pull request #9 from NedaJalili/master
+[35m|[m[34m\[m[34m|[m 
+[35m|[m * [33mb20aabf[m Add files via upload
+[35m|[m[35m/[m  
+* [33m1420de1[m[33m ([m[1;32mmain[m[33m)[m Updated Regression structure: Removed old files and added Linear & Logistic Regression folders
+*   [33m2fd412f[m Merge pull request #8 from NedaJalili/master
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33ma682baa[m Add files via upload
+* [1;32m|[m [33m0e0b7f5[m Merge pull request #7 from NedaJalili/master
+[1;33m|[m[1;32m\[m[1;32m|[m 
+[1;33m|[m * [33mf362574[m Add files via upload
+* [1;34m|[m [33me8a6cbc[m Merge pull request #6 from NedaJalili/master
+[1;35m|[m[1;34m\[m[1;34m|[m 
+[1;35m|[m * [33ma737cbb[m Add files via upload
+* [1;36m|[m [33mf7788c2[m Merge pull request #5 from NedaJalili/master
+[31m|[m[1;36m\[m[1;36m|[m 
+[31m|[m * [33m91ee7cb[m Add files via upload
+* [32m|[m [33mf99062f[m Merge pull request #4 from NedaJalili/master
+[33m|[m[32m\[m[32m|[m 
+[33m|[m * [33m16970fe[m Add files via upload
+* [34m|[m [33mf3755b4[m Merge pull request #3 from NedaJalili/master
+[35m|[m[34m\[m[34m|[m 
+[35m|[m *   [33mb445396[m Merge pull request #2 from NedaJalili/main
+[35m|[m [1;31m|[m[35m\[m  
+[35m|[m [1;31m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m   
+* [1;31m|[m [33m0f600c7[m Delete mp1_s41p1_sklearn_LinearModel.py
+* [1;31m|[m   [33m0a0dccb[m Merge branch 'main' of https://github.com/nedajalili/ML-Forge
+[1;33m|[m[1;34m\[m [1;31m\[m  
+[1;33m|[m * [1;31m|[m [33m55f53fd[m Merge pull request #1 from NedaJalili/master
+[1;33m|[m [1;35m|[m[1;31m\[m[1;31m|[m 
+[1;33m|[m [1;35m|[m * [33meb976db[m Add files via upload
+[1;33m|[m [1;35m|[m[1;35m/[m  
+* [1;35m/[m [33ma0e0bcc[m Add Regression/mp1_s41p1_sklearn_LinearModel.py
+[1;35m|[m[1;35m/[m  
+* [33m02e8611[m Added README file
+* [33m8699e0e[m Added README file
+* [33m24fd107[m Added README file
+* [33m0e1b76f[m Initial commit
