@@ -2,6 +2,7 @@
 # کدام الگوريتم مناسب است؟
 #داده ها برچسب دارند>الگوريتم هاي بانظارت----برچسب ها پيوسته هستند > يکي از الگوريتم هاي مناسب LinearRegressionاست
 
+
 #فراخواني کتابخانه براي ساماندهي  داده ها و کار با آنها
 import pandas as pd
 #خواندن داده ها از فايل مربوطه 
@@ -37,3 +38,17 @@ from sklearn.linear_model import LinearRegression
 model=LinearRegression()#تعريف مدل
 model.fit(xtrain,ytrain)#برازش مدل روي داده هاي آموزش
 ypred=model.predict(xtest)#پيش بيني مدل براي داده هاي آزمون
+
+#-------------------------------------------------
+#شاخص هاي ارزيابي را براي اين مدل بررسي کنيد
+
+import  numpy as np
+from sklearn import metrics
+print("mean=",np.mean(y))
+print("mae=",metrics.mean_absolute_error(ytest,ypred))
+print("mse=",metrics.mean_squared_error(ytest,ypred))
+print("rmse=",np.sqrt(metrics.mean_squared_error(ytest,ypred)))
+
+#چون مدل ما خطي است، مي توان شيب و عرض از مبدا را هم استخراج کرد
+print(model.intercept_)#عرض از مبدا
+print(model.coef_)#شيب
